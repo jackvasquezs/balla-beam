@@ -1,4 +1,4 @@
-# balla-beam
+# ball-and-beam
 Ardino code for control of beam and ball system.
 
 Some adjustments were made for the platform used. In the platform, the servo motor had a range of 0 to 60 ◦ centered in 80 ◦.
